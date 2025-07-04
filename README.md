@@ -19,7 +19,7 @@ This project is a simple Java-based e-commerce system that demonstrates core **O
   3-**shippable without expiry date products**
   4-**normal products"nonshippable without expiry date"**
 s
-- Calculate **shipping fees based on weight**
+- Calculate **shipping fees based on weight**(10$ per KG)
 - Validate checkout total including shipping fees
 - Show **remaining balance** after checkout
 - Filter and process items through a centralized **ShippingService**
